@@ -5,11 +5,11 @@
 
 ### Stuff I've done recently
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
-2. 🗣 Commented on [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
-3. ❗️ Opened issue [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
-4. ❗️ Closed issue [#30](https://github.com/Dunkmania101/SpatialHarvesters/issues/30) in [Dunkmania101/SpatialHarvesters](https://github.com/Dunkmania101/SpatialHarvesters)
-5. 🗣 Commented on [#30](https://github.com/Dunkmania101/SpatialHarvesters/issues/30) in [Dunkmania101/SpatialHarvesters](https://github.com/Dunkmania101/SpatialHarvesters)
+1. ❗️ Closed issue [#33](https://github.com/Dunkmania101/SpatialHarvesters/issues/33) in [Dunkmania101/SpatialHarvesters](https://github.com/Dunkmania101/SpatialHarvesters)
+2. 🗣 Commented on [#33](https://github.com/Dunkmania101/SpatialHarvesters/issues/33) in [Dunkmania101/SpatialHarvesters](https://github.com/Dunkmania101/SpatialHarvesters)
+3. 🗣 Commented on [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
+4. 🗣 Commented on [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
+5. ❗️ Opened issue [#357](https://github.com/mickelus/tetra/issues/357) in [mickelus/tetra](https://github.com/mickelus/tetra)
 <!--END_SECTION:activity-->
 |----------|
 ### Thanks for checking out my stuff\!
