@@ -5,10 +5,10 @@
 
 ### Stuff I've done recently
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
-2. 🗣 Commented on [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
-3. ❗️ Opened issue [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
-4. 🗣 Commented on [#1](https://github.com/Dunkmania101/custom-guix-installer/issues/1) in [Dunkmania101/custom-guix-installer](https://github.com/Dunkmania101/custom-guix-installer)
+1. 🗣 Commented on [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
+2. ❗️ Closed issue [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
+3. 🗣 Commented on [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
+4. ❗️ Opened issue [#20](https://github.com/Cheaterpaul/fallingleaves/issues/20) in [Cheaterpaul/fallingleaves](https://github.com/Cheaterpaul/fallingleaves)
 5. 🗣 Commented on [#1](https://github.com/Dunkmania101/custom-guix-installer/issues/1) in [Dunkmania101/custom-guix-installer](https://github.com/Dunkmania101/custom-guix-installer)
 <!--END_SECTION:activity-->
 |----------|
